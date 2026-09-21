@@ -1,8 +1,6 @@
 {
-  "equipo": "G00",
+  "equipo": "Ary-San",
   "integrantes": [
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" }
+    { "nombre": "Ary Sanchez", "codigo": "201920061" }
   ]
 }
